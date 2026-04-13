@@ -80,7 +80,8 @@ const Hero = () => {
             View Projects <ArrowDown size={16} />
           </button>
           <a
-            href="#"
+            href="/resume.pdf"
+            download="DiegoMartinez_Resume.pdf"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-lg border border-border text-foreground hover:bg-muted transition-all"
           >
             <FileText size={16} /> Download Resume
